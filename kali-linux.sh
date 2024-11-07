@@ -1,5 +1,5 @@
 DISTRO_ARCH=aarch64
-DISTRO_NAME=kali-linux
+DISTRO_NAME=kali
 DISTRO_COMMENT="make for MinecraftSky"
 TARBALL_STRIP_OPT=0
 TARBALL_URL['aarch64']="https://github.com/MinecraftSky/termux-proot-kail/releases/download/termux-rootfs/kali-rolling_arm64-rootfs.tar.xz"
