@@ -5,4 +5,4 @@
 + And then:
 + chmod +x install-kali.sh
 + At last:
-+ proot-distro install kali-linux
++ proot-distro login kali-linux
