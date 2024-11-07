@@ -1,1 +1,1 @@
-proot-distro remove kail-linux
+proot-distro remove kali
